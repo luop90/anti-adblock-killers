@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  Reks temp-mail's anti-adblock.
-// @author       You
+// @author       Luop90
 // @match        https://temp-mail.org/*
 // @grant        none
 // ==/UserScript==
