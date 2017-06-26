@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Anti-Adblock for Temp-Mail
+// @name         Anti Adblock-Detector for Temp-Mail
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  Reks temp-mail's anti-adblock.
